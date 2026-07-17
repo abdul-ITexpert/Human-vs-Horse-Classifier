@@ -8,6 +8,16 @@ The project also includes an interactive **Streamlit web application** for real-
 
 ---
 
+## 🎥 Demo Video
+
+[▶ Watch the Demo](https://github.com/user-attachments/assets/f1a59a89-4ec2-4ac8-8868-84a9f2fe568b)
+
+## 🌐 Live Demo
+
+🔗 **Try the Application Here:**
+
+https://human-vs-horse-classifier.streamlit.app
+
 # 📖 Project Overview
 
 The objective of this project was to build an accurate binary image classifier while exploring how different deep learning architectures affect model performance and generalization.
