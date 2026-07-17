@@ -1,6 +1,7 @@
 pandas
 numpy
 scikit-learn
-tensorflow
-keras
+tensorflow==2.20.0
+
 streamlit
+pillow
