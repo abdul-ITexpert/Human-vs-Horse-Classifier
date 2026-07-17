@@ -13,7 +13,7 @@ st.write("Upload an image, and our Transfer Learning model will predict what it 
 @st.cache_resource
 def load_my_model():
     # Loads the saved transfer learning model file
-    return tf.keras.models.load_model("horse_human_mobilenet.keras")
+    return tf.keras.models.load_model("models/horse_human_mobilenet.keras")
 
 with st.spinner("Loading AI Model into memory... Please wait."):
     model = load_my_model()
